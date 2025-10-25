@@ -13,10 +13,9 @@
 
 ## Cài đặt và chạy
 
-1. Clone repository:
-
 ```bash
 git clone https://github.com/Mbr-clown-lord/guessing_game.git
 cd guessing_game
 cargo run
+
 
